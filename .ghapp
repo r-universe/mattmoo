@@ -1,0 +1,10 @@
+{
+  "id": 136229852,
+  "created_at": "2026-05-28T05:55:28.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["mattmoo.r-universe.dev"]
+}
